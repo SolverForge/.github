@@ -5,5 +5,5 @@
 - [SolverForge (Legacy)](https://github.com/SolverForge/solverforge-legacy) - fork of Timefold's 1.24 Python wrapper
 - [SolverForge Quickstarts](https://github.com/SolverForge/solverforge-quickstarts)
 
-Releasing Januari 2026:
+Releasing January 2026:
 - [SolverForge (Rust)](https://github.com/SolverForge/solverforge)
