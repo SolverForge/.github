@@ -2,9 +2,8 @@
 
 🤝 Get Involved! ... 🌟 And please, leave us a star on our repos!
 
-- [SolverForge (Legacy)](https://github.com/SolverForge/solverforge-legacy)
+- [SolverForge (Legacy)](https://github.com/SolverForge/solverforge-legacy) - fork of Timefold's 1.24 Python wrapper
 - [SolverForge Quickstarts](https://github.com/SolverForge/solverforge-quickstarts)
 
-Work in Progress:
+Releasing Januari 2026:
 - [SolverForge (Rust)](https://github.com/SolverForge/solverforge)
-- [Roadmap](https://github.com/orgs/SolverForge/discussions/2)
